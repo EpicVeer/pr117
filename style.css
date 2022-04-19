@@ -1,0 +1,13 @@
+#score{
+    text-align: left;
+    margin-left: 50px;
+    color: white;
+}
+#timer{
+    text-align: right;
+    margin-right: 100px;
+    color: white;
+}
+body{
+    background-image: radial-gradient(Red,Orange,Yellow,Green,Blue,Indigo,Violet);
+}
